@@ -1,0 +1,30 @@
+_repo: Les-cinquante-et-ung-arretz-d-amours_64153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martial, d'Auvergne
+    aliases:
+    - Martialis, Arvernus
+    - D'Auvergne, Martial
+    - Martial, de Paris
+    deathdate: 1508
+    gutenberg_agent_id: '32003'
+    url: http://www.gutenberg.org/2009/agents/32003
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Martial_d%27Auvergne
+    - https://en.wikipedia.org/wiki/Martial_d%27Auvergne
+description: ''
+gutenberg_issued: '2020-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64153'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- To 1500'
+- GITenberg
+title: Les cinquante et ung arretz d'amours
+url: http://www.gutenberg.org/ebooks/64153
